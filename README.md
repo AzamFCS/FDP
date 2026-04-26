@@ -4,3 +4,4 @@
 В данном репозитории представлена часть домашних работ по данной дисциплине.
 На данный момент:
 * [Домашнее задание по классификации фото](https://github.com/AzamFCS/FDP/tree/main/hw2)
+* [Домашнее задание по трансформермам](https://github.com/AzamFCS/FDP/blob/main/hw4/nlp-transformers2.ipynb)
